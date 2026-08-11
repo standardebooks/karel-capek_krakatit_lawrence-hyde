@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/karel-capek/krakatit/lawrence-hyde</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-08-11T17:45:14Z</dc:date>
+		<meta property="dcterms:modified">2026-08-11T17:45:14Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -41,17 +41,17 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Satire</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<meta property="schema:abstract">A man invents a terrible new explosive and becomes of interest to the authorities.</meta>
+		<meta property="schema:abstract">An engineer invents a terrible new explosive that becomes of interest to the authorities.</meta>
 		<dc:description>
-			&lt;p&gt;The engineer Prokop discovers a terrifying new explosive, one that releases the energy stored in matter itself. Though dazed, Prokop immediately sees the dangers that this explosive will bring, but others who become aware of his discovery see a rare opportunity.&lt;/p&gt;
-			&lt;p&gt;Part science fiction, part romance and part satire, Prokop’s ensuing adventures are full of symbolism and surreal dreamlike encounters. Through Prokop, &lt;a href="https://standardebooks.org/ebooks/karel-capek"&gt;Čapek&lt;/a&gt; explores the relation of science to truth, and the moral responsibilities of scientists.&lt;/p&gt;
+			&lt;p&gt;An engineer named Prokop discovers a terrifying new explosive: one that releases the energy stored in matter itself. Though dazed by his discovery, Prokop immediately sees the dangers that this explosive will bring; but as others become aware of his discovery, they instead see a rare opportunity.&lt;/p&gt;
+			&lt;p&gt;Part science fiction, part romance, and part satire, Prokop’s ensuing adventures are full of symbolism and surreal dreamlike encounters. Through Prokop, &lt;a href="https://standardebooks.org/ebooks/karel-capek"&gt;Čapek&lt;/a&gt; explores the relation of science to truth, and the moral responsibilities of scientists.&lt;/p&gt;
 			&lt;p&gt;Though it was written in the 1920s, the explosive described in Krakatit can easily be reimagined as the atomic bomb. Shorty after World War II a Czech film adaptation was released which captured the anxiety created by such a real life weapon of mass destruction.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/79127</dc:source>
 		<dc:source>https://archive.org/details/krakatit0000cape</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">100295</meta>
+		<meta property="schema:educationalLevel">74.49</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/karel-capek_krakatit_lawrence-hyde" refines="#vcs-repository" rel="schema:codeRepository"/>
@@ -84,6 +84,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<link href="https://weijiarhymeswith.asia/" refines="#producer-2" rel="schema:url"/>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
