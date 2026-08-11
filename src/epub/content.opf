@@ -41,7 +41,7 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Satire</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:abstract>A man invents a terrible new explosive and becomes of interest to the authorities.</dc:abstract>
+		<meta property="schema:abstract">A man invents a terrible new explosive and becomes of interest to the authorities.</meta>
 		<dc:description>
 			&lt;p&gt;The engineer Prokop discovers a terrifying new explosive, one that releases the energy stored in matter itself. Though dazed, Prokop immediately sees the dangers that this explosive will bring, but others who become aware of his discovery see a rare opportunity.&lt;/p&gt;
 			&lt;p&gt;Part science fiction, part romance and part satire, Prokop’s ensuing adventures are full of symbolism and surreal dreamlike encounters. Through Prokop, &lt;a href="https://standardebooks.org/ebooks/karel-capek"&gt;Čapek&lt;/a&gt; explores the relation of science to truth, and the moral responsibilities of scientists.&lt;/p&gt;
